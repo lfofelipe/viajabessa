@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ViajabessaStore</string>
+    <string name="title_activity_lista_pacote">Pacotes</string>
+    <string name="nenhum_pacote_disponivel">Nenhum pacote disponível.</string>
+    <string name="titulo">Titulo</string>
+    <string name="title_activity_detalhe_pacote">Detalhe Pacote</string>
+</resources>
